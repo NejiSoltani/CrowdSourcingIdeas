@@ -1,0 +1,15 @@
+edu\esprit\CrowdSourcingIdeas\ressources\PhotoRessource.class
+edu\esprit\CrowdSourcingIdeas\ressources\LikeRessource.class
+edu\esprit\CrowdSourcingIdeas\ressources\ContactRessource.class
+edu\esprit\CrowdSourcingIdeas\ressources\CustomerRessource.class
+edu\esprit\CrowdSourcingIdeas\ressources\CommentRessource.class
+edu\esprit\CrowdSourcingIdeas\ressources\IdeaResource.class
+edu\esprit\CrowdSourcingIdeas\ressources\QuestionRessource.class
+edu\esprit\CrowdSourcingIdeas\ressources\CategoryRessource.class
+edu\esprit\CrowdSourcingIdeas\ressources\RestApplication.class
+edu\esprit\CrowdSourcingIdeas\ressources\NotificationRessource.class
+edu\esprit\CrowdSourcingIdeas\ressources\QuizRessource.class
+edu\esprit\CrowdSourcingIdeas\ressources\ReclamationRessource.class
+edu\esprit\CrowdSourcingIdeas\ressources\ReservationRessource.class
+edu\esprit\CrowdSourcingIdeas\ressources\ProductResource.class
+edu\esprit\CrowdSourcingIdeas\ressources\ShopResource.class
